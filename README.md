@@ -8,3 +8,10 @@ Opened the gba advanced sp to check the dimensions and the design. It is truly m
 ## Day 2:
 Got the raspberry pi to fit into the gameboy shell finally, lets gooo. Had to cut a few things out to do it.
 
+## Day 3: 
+I did nothing.
+
+## Day 4:
+
+Researched a bit about raspberry pi gpio inputs and how i could use buttons and disguise them as key strokes. Ordered good quality buttons (hopefully), and a big hdmi to small hdmi converter so that i can actually find out whether or not my raspberry pi is even working or not.
+
