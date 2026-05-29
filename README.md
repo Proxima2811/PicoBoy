@@ -15,3 +15,6 @@ I did nothing.
 
 Researched a bit about raspberry pi gpio inputs and how i could use buttons and disguise them as key strokes. Ordered good quality buttons (hopefully), and a big hdmi to small hdmi converter so that i can actually find out whether or not my raspberry pi is even working or not.
 
+## Day 5:
+Got the hdmi converter, and got the raspberry pi to work properly. Now, all that's left is to buy pico and launch it. Only, button input, and LCD screen and battery power left.
+
