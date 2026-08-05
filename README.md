@@ -1,4 +1,4 @@
-# Pocket-console
+# PicoBoy
 I am attempting to re-use the shell of a gameboy advance sp and make a handheld retro game console.
 I had written this before i started and now i have come back with a completely finished product!
 
@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/fd4c8ff4-f84a-478d-be18-1c1377a9bd91
 
 
 
-
+At the moment, the buttons have started malfunctioning which explains why its not responding properly, Keep in mind that this is a prototype and the real project will require pcb making, making a real 3d model and pad buttons like the ones found on the original gameBoy.
 
 
 ## Day 1:
