@@ -1,3 +1,3 @@
-Raspberry pi zero 2w wiring schematic : raspberry pi zero 2w pinout
+Raspberry pi zero w wiring schematic : raspberry pi zero w pinout
 
 ![Uploading image.png…]()
