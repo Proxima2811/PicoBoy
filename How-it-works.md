@@ -11,7 +11,7 @@ with relatively few GPIO pins compared to a parallel interface. Explain what eac
 - **RESET** — hardware reset line for the display controller
 
 ### GPIO Buttons
-## Understanding Pull-Up and Pull-Down Resistors
+### Understanding Pull-Up and Pull-Down Resistors
 
 A GPIO pin with nothing connected to it is "floating" — it picks up stray electrical 
 noise and reads randomly instead of a clean HIGH or LOW. A button doesn't fix this on 
