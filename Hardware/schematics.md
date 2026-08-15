@@ -35,6 +35,6 @@ Raspberry pi zero w wiring schematic : raspberry pi zero w pinout
 | GPIO19          | 35           | Enter        |                                |
 | GND (for all pins)| any GND    | Common Ground | All buttons share this ground |
 
-<img width="3000" height="4000" alt="button layout irl" src="https://github.com/user-attachments/assets/cb3223ed-5777-477f-8ea5-ac754f41304a" />
+<img width="600" height="800" alt="button layout irl" src="https://github.com/user-attachments/assets/cb3223ed-5777-477f-8ea5-ac754f41304a" />
 
 
