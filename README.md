@@ -12,17 +12,24 @@ Now, Why did I make this in the first place? simply, to have fun. My phone was t
 https://github.com/user-attachments/assets/fd4c8ff4-f84a-478d-be18-1c1377a9bd91
 
 Bill of components:
-1. Raspberry pi zero w
-2. 22 AWG wires
-3. Tactile push buttons
-4. soldering iron
-5. 2.8" SPI LCD display
-6. The shell of the GameBoy.
+## Bill of Materials
+
+| # | Component                          | Qty | Notes                                      |
+|---|-------------------------------------|-----|---------------------------------------------|
+| 1 | Raspberry Pi Zero W                 | 1   | Main compute board                          |
+| 2 | 2.8" 240×320 SPI TFT LCD (ILI9341)  | 1   | Display for the game                        |
+| 3 | Tactile push buttons                | 7   | D-Pad (4), X, C, Enter                      |
+| 4 | 22AWG wire                          | 1-2m| For button and LCD connections              |
+| 5 | GameBoy advance SP shell            | 1   | Original casing, gutted                     |
+| 6 | PICO-8 license                      | 1   | Fantasy console software                    |
+| 7 | MicroSD card                        | 1   | For Raspberry Pi OS + PICO-8                |
+| 8 | Micro HDMI to HDMI adapter          | 1   | Used for initial setup                      |
+|10 | Soldering iron & solder             | —   | To build the setup                          
 
 
+At the moment, the buttons have started malfunctioning which explains why its not responding properly, Keep in mind that this is a prototype and the real project will require a custom-made PCB, 3D model and pad buttons like the ones found on the original GameBoy.
 
-At the moment, the buttons have started malfunctioning which explains why its not responding properly, Keep in mind that this is a prototype and the real project will require pcb making, making a real 3d model and pad buttons like the ones found on the original gameBoy.
-
+Progress reports ( I gave up after the 5th day)
 
 ## Day 1:
 Opened the gba advanced sp to check the dimensions and the design. It is truly mind boggling, the way nintendo made the fit so compact and buttons so easy to press. It might be impossible to actually fit my raspberry pi zero 2 W in there, but we'll get to that part after i get the pico-8 console to work on the raspberry pi. But what is pico-8? It is a fantasy game console built for to play and build games with more ease than a typical game engine and it also doesn't actually require much power so, hopefully it can run on the raspberry pi.
@@ -39,4 +46,8 @@ Researched a bit about raspberry pi gpio inputs and how i could use buttons and 
 
 ## Day 5:
 Got the hdmi converter, and got the raspberry pi to work properly. Now, all that's left is to buy pico and launch it. Only, button input, and LCD screen and battery power left.
+
+Progress videos: 
+
+
 
