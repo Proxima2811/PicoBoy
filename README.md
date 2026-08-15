@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/fd4c8ff4-f84a-478d-be18-1c1377a9bd91
 Bill of components:
 ## Bill of Materials
 
-(check /Hardware/schematics.md) for the wiring schematics
+(*check /Hardware/schematics.md for the wiring schematics*)
 
 | # | Component                          | Qty | Notes                                      |
 |---|-------------------------------------|-----|---------------------------------------------|
