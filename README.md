@@ -1,6 +1,7 @@
 # PicoBoy
 
-I call it the PicoBoy as i used the pico-8 fantasy console along with the shell of a gameboy. Pretty creative huh?
+I call it the PicoBoy as i used the pico-8 fantasy console along with the shell of a gameboy. Pretty creative huh? 
+(check /Hardware/schematics.md) for the wiring schematics
 
 ## Why? ##
 Now, Why did I make this in the first place? simply, to have fun. My phone was taking too much of my time so i wanted to direct my energy to something that could keep my attention and me, entertained. My old gameboy was completely out of battery, I couldn't find the charging wire and there were no cartridges in sight, so I thought for a bit and came up with this handheld. It functions more or less the same as the gameboy, with the ability to play any game along with similar mechanics.
