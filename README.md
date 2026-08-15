@@ -29,7 +29,41 @@ Bill of components:
 
 At the moment, the buttons have started malfunctioning which explains why its not responding properly, Keep in mind that this is a prototype and the real project will require a custom-made PCB, 3D model and pad buttons like the ones found on the original GameBoy.
 
-Progress reports ( I gave up after the 5th day)
+
+### Lessons Learnt and Improvements : 
+## Known Issues
+
+- **Buttons intermittently unresponsive** — some tactile buttons (currently: *specifically X*) 
+  don't register presses reliably. Suspected cause: (*Bad soldering job/ faulty button*) 
+
+- **Buttons are painful to use** - unsatisfying and reduces interest in playing.
+
+- **No Battery** - Painful to use a power bank and a micro-USB wire to play.
+
+- **Wiring outside the shell** - although it looks raw and handmade, the look doesn't look clean.
+
+- **No Audio** - One of the biggest flaws that may look trivial but the sound effects from playing provide great satisfaction.
+
+## Lessons Learned
+
+- **Wiring gauge/length** — *(e.g. "22AWG worked fine for button wiring but felt bulky for the tight LCD ribbon 
+  area — thinner gauge might route more cleanly next time")*.
+- **Prototyping vs. final build** — point-to-point soldering made debugging easy but is fragile long-term; 
+- **High quality wires** - tough, easy to solder and thin enough to route efficiently
+
+## Future Plans
+
+- [ ] Using a Raspberry Pi zero 2w. It features a 1GHz quad-core 64-bit processor instead of a single-core 32-bit chip, while keeping the exact same ultra-compact 65mm x 30mm form factor and 512MB of RAM.
+    
+- [ ] Design a custom PCB to replace point-to-point wiring.
+- [ ] 3D print a proper case.
+- [ ] Source proper Game Boy–style pad buttons instead of tactile switches (this is where designing a custom PCB will come in, as the pad buttons cannot be found as separate product).
+      
+- [ ] Add battery management (charging circuit, low-battery indicator)
+- [ ] Using a proper Audio module to give a complete experience.
+
+
+### Progress reports ( I gave up after the 5th day)
 
 ## Day 1:
 Opened the gba advanced sp to check the dimensions and the design. It is truly mind boggling, the way nintendo made the fit so compact and buttons so easy to press. It might be impossible to actually fit my raspberry pi zero 2 W in there, but we'll get to that part after i get the pico-8 console to work on the raspberry pi. But what is pico-8? It is a fantasy game console built for to play and build games with more ease than a typical game engine and it also doesn't actually require much power so, hopefully it can run on the raspberry pi.
