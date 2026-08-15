@@ -16,7 +16,8 @@ Raspberry pi zero w wiring schematic : raspberry pi zero w pinout
 | GPIO19          | 35           | Enter        |                                |
 | GND (for all pins)| any GND    | Common Ground | All buttons share this ground |
 
-<img width="1568" height="771" alt="image" src="https://github.com/user-attachments/assets/343ed829-9fdf-4294-93fc-ade866137137" />
+<img width="1088" height="523" alt="schem1" src="https://github.com/user-attachments/assets/bd1b50ec-20a2-4d67-af9c-06266e60d239" />
+
 
 ### 2.8" SPI LCD (ILI9341)
 | GPIO Pin (BCM) | Physical Pin | LCD Pin | Notes                     |
