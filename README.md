@@ -1,10 +1,9 @@
 # PicoBoy
-I am attempting to re-use the shell of a gameboy advance sp and make a handheld retro game console.
-I had written this before i started and now i have come back with a completely finished product!
 
 I call it the PicoBoy as i used the pico-8 fantasy console along with the shell of a gameboy. Pretty creative huh?
 
-Now, Why did I make this in the first place? simply, to have fun. My phone was taking too much of my time so i wanted to direct my energy to something that could keep my attention and me, entertained. My old gameboy was completely out of battery, I couldn't find the charging wire and there were no cartridges in sight, so I thought for a bit and came up with this handheld. It functions more or less the same as the gameboy, ability to play any game and the mechanics were absolutely the same. 
+## Why? ##
+Now, Why did I make this in the first place? simply, to have fun. My phone was taking too much of my time so i wanted to direct my energy to something that could keep my attention and me, entertained. My old gameboy was completely out of battery, I couldn't find the charging wire and there were no cartridges in sight, so I thought for a bit and came up with this handheld. It functions more or less the same as the gameboy, with the ability to play any game along with similar mechanics.
 
 <img width="250" height="425" alt="WhatsApp Image 2026-08-05 at 6 52 11 PM" src="https://github.com/user-attachments/assets/c2f3b57a-e54c-4dc0-8da5-90df352d5708" />
 <img width="250" height="425" alt="WhatsApp Image 2026-08-05 at 6 51 03 PM" src="https://github.com/user-attachments/assets/61927112-c7db-4408-a3b5-1d9c91078ea6" />
