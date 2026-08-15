@@ -1,9 +1,7 @@
 ## How It Works
 
 ### SPI Communication (Display)
-Brief explanation of what SPI is and why it's used here — e.g. a synchronous serial protocol 
-using MOSI/MISO/SCLK/CS lines, chosen because it's fast enough to drive a 240×320 display 
-with relatively few GPIO pins compared to a parallel interface. Explain what each signal does:
+e.g. a synchronous serial protocol using MOSI/MISO/SCLK/CS lines, chosen because it's fast enough to drive a 240×320 display with relatively few GPIO pins compared to a parallel interface.
 - **MOSI** — data sent from the Pi to the display
 - **SCLK** — clock signal that syncs data transfer
 - **CS (Chip Select)** — tells the display when it should "listen"
@@ -77,12 +75,3 @@ A successful load shows the driver binding to the SPI device and registering a d
 If you see no output here, the overlay isn't being applied — double-check the exact overlay
 name matches your kernel version and that `config.txt` was saved to the correct boot partition.
 
-### Power
-Explain how power flows from your battery/power source into the Pi and display — voltage 
-regulation, whether the LCD backlight is always-on or switchable, and any current draw 
-considerations if relevant.
-
-### Why These Design Choices
-Optional but valuable: briefly explain *why* you chose SPI over other display interfaces, 
-why you chose the Pi Zero W over alternatives, why tactile buttons over other switch types, etc. 
-This context helps other makers understand the trade-offs if they want to modify the design.
