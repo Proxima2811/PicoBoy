@@ -9,15 +9,15 @@ Now, Why did I make this in the first place? simply, to have fun. My phone was t
 <img width="300" height="575" alt="WhatsApp Image 2026-08-05 at 6 52 11 PM" src="https://github.com/user-attachments/assets/c2f3b57a-e54c-4dc0-8da5-90df352d5708" />
 <img width="300" height="575" alt="WhatsApp Image 2026-08-05 at 6 51 03 PM" src="https://github.com/user-attachments/assets/61927112-c7db-4408-a3b5-1d9c91078ea6" />
 
-
 https://github.com/user-attachments/assets/fd4c8ff4-f84a-478d-be18-1c1377a9bd91
 
-list of components:
+Bill of components:
 1. Raspberry pi zero w
-2. 2.8" 240×320 SPI TFT LCD (ILI9341)
-3. PICO-8 license
-4. wires to solder.
-5. buttons
+2. 22 AWG wires
+3. Tactile push buttons
+4. soldering iron
+5. 2.8" SPI LCD display
+6. The shell of the GameBoy.
 
 
 
