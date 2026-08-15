@@ -13,7 +13,7 @@ Now, Why did I make this in the first place? simply, to have fun. My phone was t
 https://github.com/user-attachments/assets/fd4c8ff4-f84a-478d-be18-1c1377a9bd91
 
 list of components:
-1. Raspberry pi zero 2w
+1. Raspberry pi zero w
 2. 2.8" 240×320 SPI TFT LCD (ILI9341)
 3. PICO-8 license
 4. wires to solder.
